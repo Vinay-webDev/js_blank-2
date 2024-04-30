@@ -1,5 +1,5 @@
 // rock, paper, scissors! again***
-/*
+
 let playGame = confirm("shall we play rock,paper,scissors?");
 if (playGame) {
     let playerChoice = prompt("please enter rock, paper, or scissors");
@@ -32,10 +32,10 @@ if (playGame) {
 } else {
     console.log("Ok, maybe next time!");
 }
-*/
+
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // rock, paper, scissors
-/*
+
 let playGame = confirm("shall we play rock, paper, scissors?");
 if (playGame) {
     let playerChoice = prompt("enter rock, paper, scissors");
@@ -70,15 +70,15 @@ if (playGame) {
 }
 
 //////////////////////////////////////////////////////////////////////////////
-/*
+
 let randomNum = Math.ceil(Math.random()*3);
 console.log(randomNum);
 let randomNum2 = Math.floor(Math.random()*3 + 1);
 console.log(randomNum2);
-*/
+
 ///////////////////////////////////////////////////////////////////////////////////
 // class  passing parameters and values
-/*
+
 class vehicle {
     constructor(numWheels,numDoors,whatColor) {
         this.wheels = numWheels;
@@ -94,7 +94,7 @@ class vehicle {
 }
 myVehicle = new vehicle(4,2,"red");
 myVehicle.typeOfVehicle();
-*/
+
 
 
 
